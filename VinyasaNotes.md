@@ -40,11 +40,8 @@ Vinyasa Sequence Cues (Version 0.1):
 * Drop your head down completely relaxed.
 * Set your gaze between the feet.
 * If you are comfortable, Press your heals into the floor. (Without rounding your back, Dont bend your knees).
-
-
 * Squeeze your quadriceps, Squeeze your Stomach
 * Breathe from your Chest.
-
 
 ## 3. Urdhva Hastasana (Upward Salute) [Also Pronouced "Urva Hastasana"]
 
