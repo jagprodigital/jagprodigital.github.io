@@ -16,9 +16,10 @@ subtitle: Version 0.1
 Vinyasa Sequence Cues (Version 0.1):
 
 * Sequence
-  - Child's Pose (Balasana) (பாலாசனம்)
-  - Downward Facing Dog (Adho Mukha Svanasana)
-  - Mountain Pose (Tadasana)
+  - 1. Child's Pose (Balasana)
+  - 2. Downward Facing Dog (Adho Mukha Svanasana)
+  - 3. Rag doll (Uttanasana)
+  - 4. Mountain Pose (Tadasana)
 
 ## 1. Child's Pose (Balasana)(பாலாசனம்)
 
@@ -42,6 +43,12 @@ Vinyasa Sequence Cues (Version 0.1):
 * If you are comfortable, Press your heals into the floor. (Without rounding your back, Dont bend your knees).
 * Squeeze your quadriceps, Squeeze your Stomach
 * Breathe from your Chest.
+
+## 3. Rag doll (Uttanasana)
+
+* Feet hip width
+* Bend knees until ribs touch your thighs
+* Relax neck
 
 ## 3. Urdhva Hastasana (Upward Salute) [Also Pronouced "Urva Hastasana"]
 
