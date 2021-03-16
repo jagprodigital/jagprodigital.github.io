@@ -16,10 +16,11 @@ author: Jag Valaiyapathy
 navbar-links:
   About Me: "aboutme"
   Patanjali: "NotesOnPatanjali"
-  26X2: "26And2Notes"
-  Vinyasa: "VinyasaNotes"
-  Slokas: "Slokas"
-  Siddha: "SiddhaMedicine"
+  26X2: "NotesOn26And2"
+  Vinyasa: "NotesOnVinyasa"
+  Slokas: "FavoriteSlokas"
+  Pranayama: "NotesOnPranayama"
+  Siddha: "NotesOnSiddhaMedicine"
 
 # --- Logo --- #
 
