@@ -44,13 +44,15 @@ Vinyasa Sequence Cues (Version 0.1):
 * Squeeze your quadriceps, Squeeze your Stomach
 * Breathe from your Chest.
 
-## 3. Rag doll (Uttanasana)
+## 3. Forward Fold (Uttanasana) (உத்தனாசனம்)
 
-* Feet hip width
-* Bend knees until ribs touch your thighs
-* Relax neck
+* Feet hip width apart
+* Bend your knees until ribs touch your thighs
+* Relax your neck
+* Rest your hand on the side of the feet.
+* Feel the stretch on the back of your leg
 
-## 3. Urdhva Hastasana (Upward Salute) [Also Pronouced "Urva Hastasana"]
+## 4. Urdhva Hastasana (Upward Salute) [Also Pronouced "Urva Hastasana"]
 
 * Bring your arms up overhead
 * Pull your shoulders back into the socket
